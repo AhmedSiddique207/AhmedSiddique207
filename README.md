@@ -5,8 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsiddique&label=Profile%20Views&color=10FFCB&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/ahmed-memon-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+
   <a href="mailto:ahmed.siddique.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
