@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10FFCB&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Siddique;React+Native+%7C+Full+Stack+Mobile+Developer;Building+cross-platform+apps+with+Expo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10FFCB&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Siddique;React+Native+%7C+Full+Stack+Mobile+Developer;Building+cross-platform+apps+with+Expo" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -35,7 +35,7 @@ Developed UI screens, fixed bugs, and integrated Firebase Authentication under s
 
 ### 🛠️ Featured Projects
 
-#### 📲 [Jobique — Recruitment App](#) *(Live on Play Store)*
+#### 📲 [Jobique — Recruitment App](https://play.google.com/store/apps/details?id=com.ahmedmemon.Jobique&hl=en) *(Live on Play Store)*
 LinkedIn-style recruitment & networking app with job posting, applications, real-time recruiter-employee chat, and Supabase Auth/Storage.
 `React Native` `Expo` `Supabase`
 
